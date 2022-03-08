@@ -211,3 +211,34 @@ button:hover {
   padding: 20px;
   font-size: 20px;
 }
+
+.solnedgång {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 1770px;
+  height: 700px;
+  background-image: url(../Bilder/solnedgång.png);
+  color: white;
+}
+
+.solnedgång-text-box {
+  background-color: #232323d7;
+  max-width: 543px;
+  height: 320px;
+  position: absolute;
+  left: 967px;
+  top: 2755px;
+  padding: 20px;
+  font-size: 20px;
+}
