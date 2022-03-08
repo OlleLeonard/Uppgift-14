@@ -1,0 +1,28 @@
+.man{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+    width: 1770px;
+    height: 720px;
+    background-image: url(../Bilder/man-vänster.png);
+    color:white;
+}
+
+.man-text-box{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color: #232323;
+    width: 1000px;
+    height: 280px;
+    position: absolute;
+}
+
+.man-title{
+    position: absolute;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height: 10px;
+}
