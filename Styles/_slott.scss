@@ -1,0 +1,54 @@
+
+.slott{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+    width: 1770px;
+    height: 820px;
+    background-image: url(../Bilder/slott.png);
+    color:white;
+}
+
+.slott-text-box{
+    max-width: 400px;
+    position: absolute;
+    left: 300px;
+    top: 1150px;
+}
+
+
+.slott-title{
+    font-size: 36px;
+}
+
+.slott-text{
+    font-size:16px;
+}
+
+.slott-pictures{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+}
+
+.slott-sjö{
+    position: absolute;
+    width: 350px;
+    height: 220px;
+    padding:5px;
+    left: 953px;
+    top: 1100px;
+
+}
+
+.slott-berg{
+    position: absolute;
+    width: 350px;
+    height: 220px;
+    padding:5px;
+    left: 1050px;
+    top: 1330px;
+}
+
