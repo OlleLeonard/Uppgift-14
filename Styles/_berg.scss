@@ -1,4 +1,6 @@
 .berg-picture{
+    max-width: 100%;
+    max-width: 100%;
     display:flex;
     justify-content:center;
     align-items:center;
@@ -7,6 +9,10 @@
     height: 820px;
     background-image: url(../Bilder/berg.png);
     color:white;
+}
+
+.berg-title{
+    font-size: 48px;
 }
 
 .search-bar{

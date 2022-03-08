@@ -1,11 +1,16 @@
 .bar-info{
-    max-width: 1773px;
-    height: 83px;
+    max-width: 100%;
+    max-width: 100%;
+    width: 1730px;
+    height: 80px;
     background-color:#5474FD;
     color:white;
     display:flex;
     justify-content:space-around;
     align-items:center;
+    position: absolute;
+    top: 795px;
+
 }
 
 .bar-title{
@@ -37,3 +42,20 @@
     height: 20px;
     padding:20px;
 }
+
+.bar-box1:hover {
+    background: #94a6f7;
+}
+
+.bar-box2:hover {
+    background: #94a6f7;
+}  
+
+.bar-box3:hover {
+    background: #94a6f7;
+}
+
+.bar-box4:hover {
+    background: #94a6f7;
+}
+

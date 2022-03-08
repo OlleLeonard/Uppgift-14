@@ -1,11 +1,13 @@
 
 .slott{
+    max-width: 100%;
+    max-width: 100%;
     display:flex;
     justify-content:center;
     align-items:center;
     flex-direction: column;
     width: 1770px;
-    height: 820px;
+    height: 690px;
     background-image: url(../Bilder/slott.png);
     color:white;
 }
@@ -14,7 +16,7 @@
     max-width: 400px;
     position: absolute;
     left: 300px;
-    top: 1150px;
+    top: 1090px;
 }
 
 
@@ -39,7 +41,7 @@
     height: 220px;
     padding:5px;
     left: 953px;
-    top: 1100px;
+    top: 1000px;
 
 }
 
@@ -49,6 +51,6 @@
     height: 220px;
     padding:5px;
     left: 1050px;
-    top: 1330px;
+    top: 1240px;
 }
 
