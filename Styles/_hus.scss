@@ -1,0 +1,21 @@
+.hus{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+    width: 1770px;
+    height: 700px;
+    background-image: url(../Bilder/hus.png);
+    color:white;
+}
+
+.hus-text-box{
+    background-color: #232323d7;
+    max-width: 543px;
+    height: 320px;
+    position: absolute;
+    left: 356px;
+    top: 2055px;
+    padding: 20px;
+    font-size: 20px;
+}
